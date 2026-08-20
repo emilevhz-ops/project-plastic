@@ -6,3 +6,4 @@ load_dotenv()
 
 GROK_API_KEY = os.getenv("GROK_API_KEY")
 HUBSPOT_API_KEY = os.getenv("HUBSPOT_API_KEY")
+SECRET_KEY = os.getenv("SECRET_KEY")
